@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe74166-d15c-4934-9546-2931d8dea669" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/ReverseVowelsOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/ReverseWordsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode75/src/Array/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode75/src/CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode75/src/Array/CanPlaceFlowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode75/src/GreatestCommonDivisorofStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode75/src/Array/GreatestCommonDivisorofStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode75/src/KidsWiththeGreatestNumberofCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode75/src/Array/KidsWiththeGreatestNumberofCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode75/src/MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode75/src/Array/MergeStringsAlternately.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +56,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.EqualRowandColumnPairs.executor": "Run",
+    "Application.StringCompression.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="StringCompression" />
+      <module name="LeetCode75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringCompression" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,11 +110,31 @@
       <workItem from="1715790244749" duration="898000" />
       <workItem from="1720483916060" duration="116000" />
       <workItem from="1724208424584" duration="49000" />
-      <workItem from="1724293975004" duration="708000" />
+      <workItem from="1724293975004" duration="1208000" />
+      <workItem from="1725237182027" duration="195000" />
+      <workItem from="1725237383447" duration="3190000" />
+      <workItem from="1728105130833" duration="2617000" />
+      <workItem from="1728510397965" duration="5454000" />
+      <workItem from="1729267832957" duration="58000" />
+      <workItem from="1732902605519" duration="106000" />
+      <workItem from="1733098944512" duration="642000" />
+      <workItem from="1747876679206" duration="6981000" />
+      <workItem from="1748136156832" duration="4336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode75/src/Array/StringCompression.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
